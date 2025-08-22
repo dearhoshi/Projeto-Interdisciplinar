@@ -60,3 +60,10 @@ A Aimirim foi a empresa que visitei com meu grupo e, portanto, a escolhida para 
 ## Para o Gateway (NAT)
 
 - nano rc.local
+
+## Para o firewall
+
+- nano /usr/local/bin/firewall.sh start `(para ativar o firewall)`
+- nano /usr/local/bin/firewall.sh stop `(para desativar o firewall)`
+- nano /usr/local/bin/firewall.sh restart `(para reiniciar o firewall)`
+- nano /usr/local/bin/firewall.sh `(para acessar o script do firewall)`
