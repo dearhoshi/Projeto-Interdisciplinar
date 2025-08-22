@@ -29,7 +29,7 @@ A Aimirim foi empresa que visitei junto com meu grupo, portanto foi a escolhida 
 - nano db.192
 - nano /etc/rc.local (usei chmod 755 /etc/rc.local para dar as devidas permissões, para que assim o arquivo seja executado com ./rc.local)
 
-## Para configurar o site utilizamos o servidor apache
+## Para configurar o site utilizei o servidor apache
 
 - cd /var/www
 - cd aimirim/public_html
