@@ -70,4 +70,4 @@ A Aimirim foi a empresa que visitei com meu grupo e, portanto, a escolhida para 
 
 ## Acesso as máquinas virtuais
 
-- [Clique aqui para acessar o drive:](https://drive.google.com/drive/folders/1vl4367cI__ccpUwZCzCuU-mZFbmkN8Kj?usp=sharing).
+- [Clique aqui para acessar o drive](https://drive.google.com/drive/folders/1vl4367cI__ccpUwZCzCuU-mZFbmkN8Kj?usp=sharing)
