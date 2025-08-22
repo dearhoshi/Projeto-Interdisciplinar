@@ -6,9 +6,9 @@ A Aimirim foi a empresa que visitei com meu grupo e, portanto, a escolhida para 
 
 ## Para configuração de hostname e IP
 
-- nano /etc/hostname (utilizado para alterar o nome do servidor)
+- nano /etc/hostname (`utilizado para alterar o nome do servidor`)
 - nano /etc/default/grub
-- nano /etc/network/interfaces (configuração do IP)
+- nano /etc/network/interfaces (`configuração do IP`)
 
 ## Para o SSH (conexão remota)
 
@@ -45,7 +45,7 @@ A Aimirim foi a empresa que visitei com meu grupo e, portanto, a escolhida para 
 ## Para controlador de domínio foi utilizado o Samba
 
 - samba-tool domain provision
-- smbclient -L localhost -U administrator (login com o admin do Samba para verificar o funcionamento)
+- smbclient -L localhost -U administrator (`login com o admin do Samba para verificar o funcionamento`)
 - Após isso, foi utilizado o Windows 11 para acessar o Active Directory instalado no Linux.
 - Configurei o DNS no Windows 11.
 
