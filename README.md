@@ -67,3 +67,7 @@ A Aimirim foi a empresa que visitei com meu grupo e, portanto, a escolhida para 
 - nano /usr/local/bin/firewall.sh stop `(para desativar o firewall)`
 - nano /usr/local/bin/firewall.sh restart `(para reiniciar o firewall)`
 - nano /usr/local/bin/firewall.sh `(para acessar o script do firewall)`
+
+## Acesso as máquinas virtuais
+
+- [Link aqui:] (https://drive.google.com/drive/folders/1vl4367cI__ccpUwZCzCuU-mZFbmkN8Kj?usp=sharing).
