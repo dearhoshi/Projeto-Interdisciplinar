@@ -14,8 +14,9 @@ A Aimirim foi empresa que visitei junto com meu grupo, portanto foi a escolhida 
 
 - nano -l /etc/ssh/sshd_config
 
-## Para configuração do DHCP (2 primeiros ip's são dos servidores e foram reservados os 10 primeiros ip's da rede. A faixa está entre 10-100.
+## Para configuração do DHCP 
 
+- 2 primeiros ip's são dos servidores e foram reservados os 10 primeiros ip's da rede. A faixa de distribuição está entre 10-100.
 - nano /etc/default/isc-dhcp-server
 - cd /etc/dhcp
 - nano -l dhcpd.conf
